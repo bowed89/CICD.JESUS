@@ -44,4 +44,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: bowed89/cicddockerimage2025par2
+        tags: bowed89/cicddockergithubactions2025par2
