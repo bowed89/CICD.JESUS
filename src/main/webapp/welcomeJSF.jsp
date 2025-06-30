@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo desde el repositorio de JESUS!! - Commit para IMAGE DOCKERHUB - Hoy es 29 de Junio de 2025 21:10 pm" /></h1>
+                <h1><h:outputText value="Hola Mundo desde el repositorio de JESUS!! - Commit para IMAGE DOCKERHUB GITHUBACTIONS - Hoy es 29 de Junio de 2025 21:40 pm" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="Todos los Productos" id="linkProds" />
                 <br/>
